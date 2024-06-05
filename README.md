@@ -1,1 +1,2 @@
-# Spentometer
+# Splitwise_app
+ 
